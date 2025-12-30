@@ -273,14 +273,14 @@ form button:hover {
       flex-wrap: wrap;
       display: block;
     }
-    .cv-image img{
-      overflow: hidden;
-      align-items: center;
-      justify-content: center;
-      width: 330px;
-      height: 330px;
+    .mon-image{
+      width: 400px;
+      height: 400px;
       border-radius: 10px;
+      display: block;
       margin: 0 auto;
+      max-width: 100%;
+      height: auto;
     }
     form {
       padding: 20px;
@@ -291,6 +291,7 @@ form button:hover {
     }
   }
 }
+
 
 
 
