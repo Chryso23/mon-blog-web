@@ -162,7 +162,7 @@ aside {
   line-height: 1.6;
 }
 .cv-text h3 {
-  margin-bottom: 15px;
+  margin-bottom: 25px;
 }
 .cv-text ul {
   padding: 20px;
@@ -291,5 +291,6 @@ form button:hover {
     }
   }
 }
+
 
 
