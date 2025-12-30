@@ -90,7 +90,7 @@ aside {
 .section-accueil p {
   font-size: 18px;
   line-height: 1.6;
-  margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 .section-blog {
@@ -291,3 +291,4 @@ form button:hover {
     }
   }
 }
+
